@@ -1,0 +1,2 @@
+class Supervillion < ApplicationRecord
+end
